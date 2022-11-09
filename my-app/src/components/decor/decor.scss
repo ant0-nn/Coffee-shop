@@ -1,0 +1,15 @@
+.decor {
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  margin:0 auto;
+  &__line {
+    width: 60px;
+    height: 2px;
+    background: #000;
+  }
+  &__img {
+    margin: 0 20px;
+  }
+}

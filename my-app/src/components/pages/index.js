@@ -1,5 +1,5 @@
-import House from "./Coffee house/House";
-import OurCoffee from "./Our coffee/OurCoffee";
-import ForYourPleasure from "./For your pleasure/forYourPleasure";
+import CoffeeHouse from "./CoffeeHouse/CoffeeHouse";
+import OurCoffee from "./OurCoffee/OurCoffee";
+import ForYourPleasure from "./ForYourPleasure/ForYourPleasure";
 
-export {House, OurCoffee, ForYourPleasure};
+export {CoffeeHouse, OurCoffee, ForYourPleasure};
